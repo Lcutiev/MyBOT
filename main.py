@@ -125,7 +125,7 @@ root.config(bg='deep pink')
 root.resizable(width=FALSE, height=FALSE)
 
 # Load the image
-logoPic = PhotoImage(file='pic.png')
+logoPic = PhotoImage(file='logo.png')
 # Add a label widget to display the image
 logoPicLabel = Label(root,image=logoPic,bg='deep pink')
 logoPicLabel.pack(pady=5)
