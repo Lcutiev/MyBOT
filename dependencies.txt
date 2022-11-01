@@ -1,0 +1,4 @@
+chatterbot==1.0.2
+pyttsx3
+nltk==3.6.2
+regex==2021.4.4

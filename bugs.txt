@@ -1,0 +1,18 @@
+'''Error 1: Caused by SSLError
+System Env needs to set below paths:
+    ..\Anaconda3
+    ..\Anaconda3\scripts
+    ..\Anaconda3\Library\bin
+'''
+'''Errors 2: ImportError: cannot import name 'chatterbot'
+Checking the version of chatterbot compatibility with Python that you have installed
+'''
+'''Errors 3: ImportError: cannot import name 'ChatBot'
+Change chatterbot.trainers to chatterbot
+'''
+''' Error 4
+Installing  pyttsx3
++Command: pip uninstall pyttsx3 and pip install pyttsx3 and pip install --upgrade comtypes)
+
+'''
+
